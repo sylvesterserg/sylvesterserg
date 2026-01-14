@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @sylvesterserg
-- 👀 I’m interested in linux azure servers python rasberrypis smarthome automation and self-mastery
-- 🌱 I’m currently learning azure cloud ,linux systems python programming 
-- 💞️ I’m looking to collaborate on anything that i can to build on my portfolio 
-- 📫 How to reach me (https://www.linkedin.com/in/sylvester-sergeant/)
+👋 Hi, I’m Sylvester — Linux Systems & Automation Engineer
 
-<!---
-sylvesterserg/sylvesterserg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I design, automate, and maintain reliable Linux-based infrastructure.
+My focus is on reducing manual work, improving system stability, and building repeatable environments using clean automation.
+
+🔧 Core Focus
+- Linux system administration (RHEL/Rocky/Ubuntu)
+- Infrastructure automation (Ansible, Bash, Python)
+- Azure cloud fundamentals & hybrid environments
+- Home lab and production-style system design
+- Monitoring, logging, and operational reliability
+
+🚀 What I Build
+- Automated server provisioning and hardening
+- Repeatable lab environments that mirror production
+- Lightweight tooling for sysadmins and small teams
+- Documentation-first projects that explain the “why”
+
+📌 Current Goals
+- Deepen Linux & automation mastery
+- Build production-grade infrastructure projects
+- Collaborate on open-source automation and DevOps tools
+
+📫 Connect
+- LinkedIn: https://www.linkedin.com/in/sylvester-sergeant/
