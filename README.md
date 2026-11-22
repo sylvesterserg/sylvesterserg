@@ -6,7 +6,15 @@ Homelab builds that teach production infrastructure — one build, one test, and
 
 I build in Proxmox, Linux, and Ansible, document it with real commands and real screenshots, and publish the full build logs on SlyBuilds. Through Sylvect IT Services, I bring that same infrastructure work to small businesses across NJ and NYC.
 
-**Links:** [SlyBuilds on Substack](https://slybuilds.substack.com) · [sylvect.biz](https://sylvect.biz) · [Threads @sergeant_sly](https://www.threads.com/@sergeant_sly) · [Instagram @sylvect_it_solutions](https://www.instagram.com/sylvect_it_solutions)
+**Links:** [SlyBuilds on Substack](https://slybuilds.substack.com) · [sylvect.biz](https://sylvect.biz) · [LinkedIn](https://www.linkedin.com/in/sylvester-sergeant/) · [Threads @sergeant_sly](https://www.threads.com/@sergeant_sly) · [Instagram @sylvect_it_solutions](https://www.instagram.com/sylvect_it_solutions)
+
+---
+
+## Start here
+
+- **Building your own homelab?** Get the free guide: [Build Your First Production-Style Homelab](https://sylvesterserg.github.io/sly-command-center/guide/) — then follow the build logs on [SlyBuilds](https://slybuilds.substack.com/subscribe).
+- **Hiring for Linux / infrastructure?** Skip to [For recruiters](#for-recruiters) — every skill below links to a repo that proves it.
+- **Run a small business that needs IT handled?** Skip to [Work with Sylvect](#work-with-sylvect) — or [book a call](https://sylvect.biz/book/).
 
 ---
 
@@ -85,6 +93,38 @@ Where I test infrastructure, automation, and identity before it touches anyone e
 | **UniFi network upgrade** | Gateway, managed switching, and VLAN design staged for install. Documented when verified live. |
 
 Study forks on my profile (Fleet, osquery, OpenSCAP, NetworkChuck guides) are research references for the work above — labeled as forks in their descriptions, not presented as my own projects.
+
+---
+
+## For recruiters
+
+I build and document production-style Linux infrastructure. No buzzword list — each skill links to the work:
+
+| Skill | Proof |
+| --- | --- |
+| Ansible automation & idempotency | [Ansible Linux Infrastructure Lab](https://github.com/sylvesterserg/ansible-linux-infrastructure-lab) — verified deployment, firewall, HTTP, and zero-change rerun evidence |
+| CI for infrastructure code | Same repo — GitHub Actions with ansible-lint + syntax check, documented green → red → green recovery test |
+| Linux administration (Rocky / RHEL, Ubuntu, Debian) | Ansible Lab + [Linux Automation Toolkit](https://github.com/sylvesterserg/linux-automation-toolkit) |
+| Compliance automation (CIS / STIG) | [Linux Automation Toolkit](https://github.com/sylvesterserg/linux-automation-toolkit) — Ansible + OpenSCAP, HTML/XML audit reporting |
+| Virtualization (Proxmox) | Ansible Lab (Proxmox VE host) + [Homelab Command Center](https://github.com/sylvesterserg/homelab-command-center) (Proxmox API tooling in Python) |
+| Technical documentation | Deployment SOPs, architecture docs, and troubleshooting notes in every project repo; build logs on [SlyBuilds](https://slybuilds.substack.com) |
+
+**Open to:** remote Linux / infrastructure / systems roles where documented, automated work matters. Based in the NJ / NYC metro.
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/sylvester-sergeant/) — or through [sylvect.biz](https://sylvect.biz).
+
+This profile covers my own builds and my own company only — SlyBuilds and Sylvect. That's deliberate: what you see here is work I designed, built, and can walk you through line by line.
+
+---
+
+## Work with Sylvect
+
+Sylvect IT Services is my company — managed IT, infrastructure, and cybersecurity for small businesses in NJ / NYC metro that have outgrown break-fix but don't need a full-time IT hire.
+
+- Infrastructure and network projects, built and documented the same way as the labs above
+- IT oversight and vendor accountability for teams of 10–75
+- Microsoft 365 and endpoint management
+
+**Next step:** [Book a call at sylvect.biz/book](https://sylvect.biz/book/) — or start with the free [homelab guide](https://sylvesterserg.github.io/sly-command-center/guide/) and the [SlyBuilds build logs](https://slybuilds.substack.com) to see how I work before you ever talk to me.
 
 ---
 
